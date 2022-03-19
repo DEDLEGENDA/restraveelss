@@ -3,6 +3,8 @@
     color: #fff;
 }
 .carousel-inner img {
+    width: 100%;
+    height: 500px;
     object-fit: cover;
 } 
 .carousel-inner{
