@@ -8,5 +8,8 @@
     object-fit: cover;
 } 
 .carousel-inner{
-    padding-top: 50px;
+    border-radius: 25px;
+}
+.carousel{
+    top:50px;
 }
